@@ -1,0 +1,251 @@
+No,ID_Alternatif,Moda_Transportasi,C1_Waktu,C2_Biaya,C3_Cuaca,C4_Kapasitas,C5_Medan
+1,A001,Petrol Jeep,86,1787,4,4,2
+2,A002,Motorcycle (Cargo),50,789,5,3,2
+3,A003,EV Delivery,52,1798,2,4,1
+4,A004,Motorcycle (Cargo),118,479,4,1,5
+5,A005,Motorcycle (Cargo),98,1668,4,4,3
+6,A006,Van,113,1056,2,1,5
+7,A007,EV Delivery,103,790,2,4,3
+8,A008,EV Delivery,113,1550,4,1,4
+9,A009,EV Delivery,39,1736,2,2,5
+10,A010,Motorcycle (Cargo),107,1391,4,5,4
+11,A011,Petrol Jeep,32,1958,4,3,2
+12,A012,EV Delivery,96,1700,5,4,2
+13,A013,Motorcycle (Cargo),80,1540,1,5,1
+14,A014,Van,68,1291,4,3,5
+15,A015,Petrol Jeep,49,1965,3,3,4
+16,A016,Van,94,1166,1,1,3
+17,A017,Petrol Jeep,75,1679,1,2,2
+18,A018,Motorcycle (Cargo),55,384,1,2,2
+19,A019,Small Truck,114,496,5,5,3
+20,A020,Petrol Jeep,47,111,4,2,4
+21,A021,Van,23,556,2,3,5
+22,A022,Motorcycle (Cargo),105,1789,2,3,4
+23,A023,Petrol Jeep,30,1217,3,1,5
+24,A024,Van,51,1144,3,1,1
+25,A025,Small Truck,105,1030,5,1,1
+26,A026,Petrol Jeep,77,294,4,3,2
+27,A027,Van,28,499,3,5,1
+28,A028,EV Delivery,89,1733,3,2,3
+29,A029,EV Delivery,118,521,4,5,1
+30,A030,Petrol Jeep,92,1093,1,3,1
+31,A031,Small Truck,106,312,1,1,3
+32,A032,Van,23,1018,2,2,3
+33,A033,EV Delivery,117,1787,2,5,3
+34,A034,Van,39,1523,2,4,4
+35,A035,Motorcycle (Cargo),37,458,5,1,5
+36,A036,Petrol Jeep,50,477,2,3,3
+37,A037,Motorcycle (Cargo),39,1864,2,5,5
+38,A038,Small Truck,31,1804,4,5,1
+39,A039,Motorcycle (Cargo),111,531,5,3,1
+40,A040,Van,98,284,5,5,5
+41,A041,Van,99,757,2,2,4
+42,A042,EV Delivery,115,1093,5,2,3
+43,A043,Van,73,1917,2,4,4
+44,A044,Van,99,1447,2,4,5
+45,A045,Small Truck,78,614,2,3,1
+46,A046,Van,25,1882,4,1,2
+47,A047,Van,36,447,4,4,3
+48,A048,EV Delivery,87,1438,4,4,1
+49,A049,Petrol Jeep,100,562,3,5,3
+50,A050,EV Delivery,65,1524,4,2,4
+51,A051,Petrol Jeep,29,310,1,5,3
+52,A052,EV Delivery,89,617,4,5,2
+53,A053,EV Delivery,31,643,5,4,2
+54,A054,Motorcycle (Cargo),55,302,5,5,3
+55,A055,Small Truck,60,1114,3,4,3
+56,A056,Small Truck,20,1352,2,3,2
+57,A057,EV Delivery,29,1954,4,1,2
+58,A058,Small Truck,117,1467,2,1,4
+59,A059,Van,104,809,2,4,3
+60,A060,EV Delivery,91,1681,3,1,1
+61,A061,Motorcycle (Cargo),65,1166,4,5,4
+62,A062,Van,84,1839,4,3,3
+63,A063,EV Delivery,110,642,4,3,1
+64,A064,Small Truck,31,1611,1,5,4
+65,A065,Small Truck,66,692,4,2,4
+66,A066,Small Truck,38,1542,4,2,1
+67,A067,Petrol Jeep,60,865,2,5,1
+68,A068,Petrol Jeep,59,1894,3,4,4
+69,A069,Motorcycle (Cargo),41,507,5,4,4
+70,A070,Small Truck,117,145,1,1,1
+71,A071,Van,116,423,5,5,2
+72,A072,Petrol Jeep,42,1250,5,3,3
+73,A073,Motorcycle (Cargo),30,1260,3,1,2
+74,A074,Van,68,1377,2,3,3
+75,A075,Small Truck,42,1104,1,2,5
+76,A076,Small Truck,45,463,5,2,4
+77,A077,EV Delivery,103,1160,4,4,3
+78,A078,Motorcycle (Cargo),84,1039,4,1,2
+79,A079,Van,106,174,1,4,3
+80,A080,Van,29,1838,4,5,2
+81,A081,Small Truck,45,135,1,3,5
+82,A082,Van,107,171,4,1,2
+83,A083,Motorcycle (Cargo),111,126,1,3,4
+84,A084,Van,105,1785,1,2,4
+85,A085,EV Delivery,79,1585,1,2,3
+86,A086,Motorcycle (Cargo),28,1427,2,1,1
+87,A087,Van,30,1543,4,1,5
+88,A088,Small Truck,36,1515,1,2,5
+89,A089,Petrol Jeep,38,1030,2,3,4
+90,A090,Van,91,568,4,3,5
+91,A091,Petrol Jeep,55,1822,1,4,1
+92,A092,Motorcycle (Cargo),76,1408,3,4,5
+93,A093,Van,41,607,4,4,2
+94,A094,Motorcycle (Cargo),45,1482,5,3,2
+95,A095,EV Delivery,117,1432,5,1,3
+96,A096,Petrol Jeep,31,1611,2,4,4
+97,A097,Petrol Jeep,53,197,3,4,4
+98,A098,Petrol Jeep,20,1839,4,5,4
+99,A099,Motorcycle (Cargo),20,1312,2,4,5
+100,A100,Petrol Jeep,43,1587,3,2,5
+101,A101,Petrol Jeep,70,1871,5,3,1
+102,A102,Van,92,442,1,3,3
+103,A103,Small Truck,88,1447,2,4,3
+104,A104,Small Truck,59,1652,3,3,1
+105,A105,Petrol Jeep,95,1905,1,2,4
+106,A106,Small Truck,48,1579,2,3,5
+107,A107,EV Delivery,118,527,1,5,5
+108,A108,Van,99,235,1,4,1
+109,A109,Small Truck,117,1121,5,4,2
+110,A110,Small Truck,31,1802,2,3,1
+111,A111,Petrol Jeep,56,1285,1,2,5
+112,A112,Van,88,382,2,3,4
+113,A113,Van,73,1945,5,4,3
+114,A114,Motorcycle (Cargo),57,1184,1,1,2
+115,A115,Van,68,266,4,2,3
+116,A116,Petrol Jeep,100,539,2,4,5
+117,A117,Van,104,1423,1,1,2
+118,A118,Motorcycle (Cargo),84,1413,4,3,2
+119,A119,EV Delivery,89,1786,4,4,1
+120,A120,EV Delivery,91,1551,4,2,4
+121,A121,Small Truck,105,111,2,5,3
+122,A122,Small Truck,20,1351,1,3,2
+123,A123,EV Delivery,29,1953,5,2,2
+124,A124,Van,104,809,3,4,3
+125,A125,Motorcycle (Cargo),65,1166,4,5,4
+126,A126,Small Truck,88,1447,2,4,3
+127,A127,Small Truck,59,1652,3,3,1
+128,A128,Petrol Jeep,95,1905,1,2,4
+129,A129,Small Truck,48,1579,2,3,5
+130,A130,EV Delivery,118,527,1,5,5
+131,A131,EV Delivery,114,1362,5,3,4
+132,A132,Van,90,1473,3,2,1
+133,A133,Small Truck,111,1812,4,2,5
+134,A134,Van,117,143,5,1,1
+135,A135,Petrol Jeep,42,103,4,5,2
+136,A136,Motorcycle (Cargo),28,154,2,3,1
+137,A137,Small Truck,84,334,1,2,1
+138,A138,Van,77,1440,1,1,3
+139,A139,Petrol Jeep,100,1521,4,1,5
+140,A140,Van,91,241,2,5,5
+141,A141,Small Truck,54,345,3,4,2
+142,A142,Petrol Jeep,33,184,1,4,1
+143,A143,EV Delivery,51,104,4,5,3
+144,A144,Petrol Jeep,74,1345,1,3,2
+145,A145,Small Truck,88,103,2,1,1
+146,A146,Van,104,342,1,2,5
+147,A147,EV Delivery,111,1045,4,2,4
+148,A148,Petrol Jeep,20,345,5,3,1
+149,A149,Motorcycle (Cargo),34,1421,4,5,2
+150,A150,Van,104,153,1,4,3
+151,A151,Small Truck,54,345,3,4,2
+152,A152,Petrol Jeep,33,184,1,4,1
+153,A153,EV Delivery,51,104,4,5,3
+154,A154,Petrol Jeep,74,1345,1,3,2
+155,A155,Small Truck,88,103,2,1,1
+156,A156,Van,104,342,1,2,5
+157,A157,EV Delivery,111,1045,4,2,4
+158,A158,Petrol Jeep,20,345,5,3,1
+159,A159,Motorcycle (Cargo),34,1421,4,5,2
+160,A160,Van,104,153,1,4,3
+161,A161,EV Delivery,77,1432,2,4,5
+162,A162,Small Truck,81,154,1,2,1
+163,A163,Van,99,2034,2,4,2
+164,A164,Petrol Jeep,104,124,3,1,1
+165,A165,EV Delivery,88,342,4,3,3
+166,A166,Van,111,1234,2,2,1
+167,A167,Motorcycle (Cargo),34,543,1,3,4
+168,A168,Small Truck,20,134,2,5,3
+169,A169,Petrol Jeep,61,241,1,3,5
+170,A170,Van,88,154,2,4,2
+171,A171,EV Delivery,104,123,4,3,3
+172,A172,Motorcycle (Cargo),111,543,2,2,4
+173,A173,Small Truck,20,342,1,5,1
+174,A174,Van,61,1234,4,3,3
+175,A175,Petrol Jeep,88,124,2,2,5
+176,A176,Small Truck,104,231,1,3,4
+177,A177,EV Delivery,34,541,4,1,1
+178,A178,Motorcycle (Cargo),61,1243,1,2,2
+179,A179,Petrol Jeep,81,141,4,4,1
+180,A180,Van,99,123,1,5,4
+181,A181,EV Delivery,20,541,2,3,2
+182,A182,Small Truck,111,1243,1,4,3
+183,A183,Petrol Jeep,34,141,4,2,1
+184,A184,Van,61,231,2,1,5
+185,A185,Motorcycle (Cargo),81,123,1,5,4
+186,A186,Small Truck,99,541,4,4,2
+187,A187,Petrol Jeep,20,1243,2,1,3
+188,A188,Van,111,141,1,2,2
+189,A189,EV Delivery,34,231,4,5,1
+190,A190,Motorcycle (Cargo),61,123,2,4,5
+191,A191,Petrol Jeep,81,541,1,3,2
+192,A192,Small Truck,99,1243,4,2,1
+193,A193,Van,20,141,1,5,4
+194,A194,EV Delivery,111,231,2,4,3
+195,A195,Motorcycle (Cargo),34,123,4,3,2
+196,A196,Small Truck,61,541,1,2,1
+197,A197,Petrol Jeep,81,1243,4,1,5
+198,A198,Van,99,141,1,5,4
+199,A199,EV Delivery,20,231,2,4,1
+200,A200,Motorcycle (Cargo),111,123,4,1,3
+201,A201,Van,56,842,4,2,1
+202,A202,Small Truck,25,1425,1,1,3
+203,A203,EV Delivery,119,1032,5,4,2
+204,A204,Petrol Jeep,67,1564,2,3,5
+205,A205,Motorcycle (Cargo),104,1822,1,2,4
+206,A206,Van,39,122,2,4,5
+207,A207,Motorcycle (Cargo),115,1033,5,1,3
+208,A208,EV Delivery,100,1240,2,5,3
+209,A209,Petrol Jeep,71,233,4,5,4
+210,A210,Petrol Jeep,43,157,2,3,5
+211,A211,EV Delivery,92,1679,1,2,1
+212,A212,Petrol Jeep,106,784,4,1,5
+213,A213,EV Delivery,83,771,3,3,5
+214,A214,Van,61,272,2,2,4
+215,A215,EV Delivery,108,1952,1,2,1
+216,A216,EV Delivery,76,914,5,4,4
+217,A217,Petrol Jeep,83,1272,4,1,1
+218,A218,Petrol Jeep,90,179,2,2,2
+219,A219,Small Truck,30,985,2,3,1
+220,A220,Small Truck,104,1336,3,4,4
+221,A221,Van,104,302,3,1,5
+222,A222,Small Truck,59,485,2,3,4
+223,A223,Petrol Jeep,38,1240,4,2,2
+224,A224,EV Delivery,117,133,5,1,3
+225,A225,Motorcycle (Cargo),25,233,4,4,5
+226,A226,Small Truck,88,157,2,5,2
+227,A227,Van,104,1679,1,3,1
+228,A228,EV Delivery,39,784,4,2,3
+229,A229,Petrol Jeep,115,771,2,5,5
+230,A230,Motorcycle (Cargo),100,272,3,3,4
+231,A231,Van,71,1952,2,1,1
+232,A232,Small Truck,43,914,4,2,2
+233,A233,EV Delivery,92,1272,2,4,3
+234,A234,Petrol Jeep,106,179,5,1,1
+235,A235,Motorcycle (Cargo),83,985,4,5,4
+236,A236,Small Truck,61,1336,2,3,1
+237,A237,Van,108,302,1,2,2
+238,A238,EV Delivery,76,485,5,4,1
+239,A239,Petrol Jeep,83,1240,2,1,3
+240,A240,Motorcycle (Cargo),90,133,3,3,5
+241,A241,Small Truck,30,233,1,5,4
+242,A242,Van,104,157,4,2,2
+243,A243,EV Delivery,104,1679,2,4,1
+244,A244,Petrol Jeep,59,784,1,1,3
+245,A245,Motorcycle (Cargo),38,771,4,3,2
+246,A246,Small Truck,117,272,2,5,1
+247,A247,Van,25,1952,3,2,4
+248,A248,EV Delivery,88,914,4,4,1
+249,A249,Petrol Jeep,104,1272,1,1,3
+250,A250,Motorcycle (Cargo),39,179,5,3,5
